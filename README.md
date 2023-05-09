@@ -2,9 +2,9 @@
 
 ## ÍNDICE
 
-* [🤍1.Intro](#)
-* [🤍2.Qué construí](#)
-* [🤍3.Objetivo del proyecto](#)
+* [🤍1.Intro](https://github.com/rosarioesparza/cloninterfazgoogle#1intro)
+* [🤍2.Qué construí](https://github.com/rosarioesparza/cloninterfazgoogle#2qu%C3%A9-constru%C3%AD)
+* [🤍3.Objetivo del proyecto](https://github.com/rosarioesparza/cloninterfazgoogle#3objetivo-del-proyecto)
 
 ****
 
